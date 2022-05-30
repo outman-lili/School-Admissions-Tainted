@@ -42,15 +42,15 @@
 | ---------- | ----------- | -------- | ------------- | -------- | ------------------------------------------------------------ |
 | 京东       |             | 校招毁约 | 2022年3月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30289018?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyODkwMTgsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjBlOTgyZjBiZmNiNjQ4MTZhMDNhODkyODhhOTg2YmUyIn0.1iiZ2y2z64YQCz5ttkx-W8i5bSt_sK-OdlMU8Nb8rgg&share_channel=2) |
 | 小米       | 人工智能部  | 校招毁约 | 2022年4月     |          | [北航应届被裁员](https://new.qq.com/omn/20220427/20220427A08WDB00.html) |
-| 转转       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30366677?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMmVkYTA5ZGQ5OWJjNGVhYzhiZTEzMTJkMjExYmNkYTQiLCJpZCI6MzAzNjY2NzcsInUiOjIzMDI3MjIxOX0.CUzH5EsB6ZSlxEHG0TDWpKgZTYnP6GnL2rJFK0Ud1DA&share_channel=5) |
-| 理想       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30395406?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiODA2ZjZhZmRhODE4NDMzMTk4NDIzMWIyNzM0ZjAwMjQiLCJpZCI6MzAzOTU0MDYsInUiOjIzMDI3MjIxOX0.FAGLXrgqCZRb2ALE_vwaZsebdi_fCd_8-_QZ7tcsj78&share_channel=5) |
-| 小鹏       |             | 校招毁约 | 2022年5月     | 5000     | [脉脉帖子](https://maimai.cn/web/gossip_detail?gid=30436921&egid=d4cb31b5ebdf4b6496c4ecdad3eb584e) |
-| 哈罗出行   |             | 校招毁约 | 2022年4月     |          | [牛客](https://www.nowcoder.com/discuss/945918)              |
+| 转转       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30366677?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMmVkYTA5ZGQ5OWJjNGVhYzhiZTEzMTJkMjExYmNkYTQiLCJpZCI6MzAzNjY2NzcsInUiOjIzMDI3MjIxOX0.CUzH5EsB6ZSlxEHG0TDWpKgZTYnP6GnL2rJFK0Ud1DA&share_channel=5)｜[脉脉截图](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E8%BD%AC%E8%BD%AC.png) |
+| 理想       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30395406?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiODA2ZjZhZmRhODE4NDMzMTk4NDIzMWIyNzM0ZjAwMjQiLCJpZCI6MzAzOTU0MDYsInUiOjIzMDI3MjIxOX0.FAGLXrgqCZRb2ALE_vwaZsebdi_fCd_8-_QZ7tcsj78&share_channel=5)｜[脉脉截图](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6.png) |
+| 小鹏       |             | 校招毁约 | 2022年5月     | 5000     | [脉脉帖子](https://maimai.cn/web/gossip_detail?gid=30436921&egid=d4cb31b5ebdf4b6496c4ecdad3eb584e)｜[短信](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6.png) |
+| 哈罗出行   |             | 校招毁约 | 2022年4月     |          | [牛客](https://www.nowcoder.com/discuss/945918)｜[脉脉](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E5%93%88%E7%BD%97.png) |
 | 有赞       |             | 校招毁约 | 2022年3月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30090542?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAwOTA1NDIsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcyYTZkNTcxMzg4ZDRkNWE4ZjU4NGU1M2EzNTRjMTIxIn0.gx1ES6OjUyGUUBUpLZMbAZogPZNSM6vOqN3TT3KDeFw&share_channel=2) |
 | 美的       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30454675?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZTEyYjQ5YjE0ZWI4NDY5YWE2ZDZmNDM4N2UwZjA4MDkiLCJpZCI6MzA0NTQ2NzUsInUiOjIzMDI3MjIxOX0.hqL5v7R1cfjrQVQv4RB9o3ggKFxtddDDPW1kOQH-ReU&share_channel=5) |
 | 58同城     |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30455417?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNjM3YzM3YTQwOWE1NDdkNzhlZTYyYjVlYTNjM2I4OWEiLCJpZCI6MzA0NTU0MTcsInUiOjIzMDI3MjIxOX0.R72jV1-AjstJQjB7R8e7LVCRfa99lwJpNGoBVEiahgE&share_channel=5) |
 | 奇点云     |             | 校招毁约 | 2022年4月     |          | [牛客](https://www.nowcoder.com/discuss/958069)              |
-| 北森       |             | 校招毁约 | 2022年5月     | 3000     | [脉脉](https://maimai.cn/web/gossip_detail/30462016?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYjIzN2FjODUxYjEzNDZhMWIzMWNmMjJiZjg0ZGI2YTYiLCJpZCI6MzA0NjIwMTYsInUiOjIzMDI3MjIxOX0.qOLkpnp6Np-8x0XtAonHYL1vaPs8nsTL5p-knh4TbeQ&share_channel=5) |
+| 北森       |             | 校招毁约 | 2022年5月     | 3000     | [脉脉](https://maimai.cn/web/gossip_detail/30462016?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYjIzN2FjODUxYjEzNDZhMWIzMWNmMjJiZjg0ZGI2YTYiLCJpZCI6MzA0NjIwMTYsInUiOjIzMDI3MjIxOX0.qOLkpnp6Np-8x0XtAonHYL1vaPs8nsTL5p-knh4TbeQ&share_channel=5)｜[脉脉截图](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E5%8C%97%E6%A3%AE%E4%BA%91.png) |
 | 达达集团   |             | 校招毁约 | 2022年4月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30245093?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNDUwOTMsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcxN2E5MThkZGI1MzRmNzViMzNlODRhMDgyYzQwNDZjIn0.sOr3o6l6_8SPAXG2iowpMsLl4Z-_fJ196oeGkMYEoBg&share_channel=2) |
 | 虎牙       |             | 校招毁约 | 2022年4月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30283414?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZThkMjUwZmM4ZTQ2NDQ1OGJhYjliODlkOWI2NTFiOTAiLCJpZCI6MzAyODM0MTQsInUiOjIzMDI3MjIxOX0.cpmmHMN_z83zhwltezeL5pez1Bm9W3tQnbipqWGcXL0&share_channel=5) |
 | 嘀嘀       |             | 校招劝退 | 2022年4月     |          | [脉脉](https://blog.csdn.net/qq_36513534/article/details/82219977) |
@@ -65,12 +65,13 @@
 | 明略       |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30409087?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNjY5ZmVmZDdiY2I0NDM4ZTg5YTdkMWZjZDBkMmUxY2YiLCJpZCI6MzA0MDkwODcsInUiOjIzMDI3MjIxOX0.xvEEiOAvTiXWC2D_a7wtrFwHmiEg884PBL1iA6jBfhI&share_channel=5) |
 | 马蜂窝     |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30434320?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZGZjOTYxY2VmNjFkNDBmMWE5YzBjODUwMDQwMjQyYTQiLCJpZCI6MzA0MzQzMjAsInUiOjIzMDI3MjIxOX0.d8OSKd6tadOtG_wfB1k3hHhwY3SH8tJD7RBfKrHA8Dc&share_channel=5) |
 | 同花顺     |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30462222?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNGNmZGE3NzliYmMyNDZhN2JkOGMxYzU2NmQ5ZGQzOTAiLCJpZCI6MzA0NjIyMjIsInUiOjIzMDI3MjIxOX0.TnLL_e5pxSy1OdFa-Q7vb-_NT-ZWY_kw0nZheveaeLA&share_channel=5) |
-| 白云山科技 |             | 校招毁约 |               |          | [脉脉](https://maimai.cn/web/gossip_detail/30450961?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiODVlZGE3MzkyYzU5NDYxYmIwMDIzMDBkNTEzZWUzYzEiLCJpZCI6MzA0NTA5NjEsInUiOjIzMDI3MjIxOX0.uZb8HOadcgxwHv8GxzmdRX1WJWFTvZjmlLI9eJYbuyc&share_channel=5) |
+| 白云山科技 |             | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30450961?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiODVlZGE3MzkyYzU5NDYxYmIwMDIzMDBkNTEzZWUzYzEiLCJpZCI6MzA0NTA5NjEsInUiOjIzMDI3MjIxOX0.uZb8HOadcgxwHv8GxzmdRX1WJWFTvZjmlLI9eJYbuyc&share_channel=5) |
 | 恒泰       |             | 校招毁约 | 2022年5月     |          | [牛客](https://www.nowcoder.com/discuss/957923)              |
 | 容联云     |             | 校招毁约 | 2022年5月     |          | [牛客](https://www.nowcoder.com/discuss/955409)              |
 | 厨芯科技   |             | 校招毁约 | 2022年4月     |          | [牛客](https://www.nowcoder.com/discuss/935292)              |
 | 金证科技   | 深圳        | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30490231?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTBjY2VjNDA0MjkxNDJkY2FiM2UxNjFmZGY4MDljMTIiLCJpZCI6MzA0OTAyMzEsInUiOjIzNDE2NTQ5N30.PqooLpSjrNz8P8F-uc4fsSMAnOAOb2Q744AvJ3_np5Q&share_channel=5) |
 | 洛凯科技   | 深圳        | 校招毁约 | 2022年5月     |          | [牛客](https://www.nowcoder.com/discuss/950519)              |
+| 深信服     | 深圳        | 校招毁约 | 2022年5月     |          | [脉脉截图](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E6%B7%B1%E4%BF%A1%E6%9C%8D.png) |
 
 
 
@@ -111,4 +112,6 @@
 ## 参考文献
 
 [校招污点公司记录](https://github.com/ShameCom/ShameCom)（2019-2020）
+
+
 
