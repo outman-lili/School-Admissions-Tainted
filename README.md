@@ -1,5 +1,8 @@
 # School-Admissions-Tainted
 
+【腾讯文档】校招污点公司汇总（文档和git会保持同步更新）
+https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
+
 # 校招污点名单
 
 本账号及仓库专用于记录在校园招聘中的具有**污点行为**的公司。
