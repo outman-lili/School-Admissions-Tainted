@@ -75,6 +75,10 @@ https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
 | 金证科技   | 深圳        | 校招毁约 | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30490231?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTBjY2VjNDA0MjkxNDJkY2FiM2UxNjFmZGY4MDljMTIiLCJpZCI6MzA0OTAyMzEsInUiOjIzNDE2NTQ5N30.PqooLpSjrNz8P8F-uc4fsSMAnOAOb2Q744AvJ3_np5Q&share_channel=5) |
 | 洛凯科技   | 深圳        | 校招毁约 | 2022年5月     |          | [牛客](https://www.nowcoder.com/discuss/950519)              |
 | 深信服     | 深圳        | 校招毁约 | 2022年5月     |          | [脉脉截图](https://github.com/outman-lili/School-Admissions-Tainted/blob/main/blacklist/img/%E6%B7%B1%E4%BF%A1%E6%9C%8D.png) |
+| 绿盟科技   |             | 校招毁约 | 2022年5月     |          | 脉脉                                                         |
+| 袋鼠云     |             | 校招毁约 | 2022年6月     |          | 脉脉                                                         |
+| 顺丰       |             | 校招毁约 | 2022年5月     |          | 网友亲身经历                                                 |
+| 小米       | 北京        | 实习劝退 | 2022年6月     |          | 网友亲身经历                                                 |
 
 
 
@@ -93,6 +97,7 @@ https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
 | 字节跳动 |           | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30373864?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAzNzM4NjQsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcyOTFmOWFhNWNiMDQ4MGQ5NDRkZDE5MzFmN2YwNDU3In0.wRpK6vWbDQg_FI2zAOxPjhD_jJsspNw3lKeaCRYimVQ&share_channel=2) |
 | 触宝     |           | 2022年4月     |          | [牛客](https://www.nowcoder.com/discuss/927384)              |
 | 盛趣游戏 |           | 2022年5月     |          | [脉脉](https://maimai.cn/web/gossip_detail/30497694?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiY2U1MWY1Y2U5MmUzNDE0Nzg1NWMxZWIyMmE4MGUwYjUiLCJpZCI6MzA0OTc2OTQsInUiOjIzMDI3MjIxOX0.eKWysRz8P0xSkDXRuwdeCGCp3ruVIS-qccR3kuoJ338&share_channel=5) |
+| 携程     |           | 2022年5月     |          | 脉脉                                                         |
 
 ## 说在后面
 
@@ -115,5 +120,4 @@ https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
 ## 参考文献
 
 [校招污点公司记录](https://github.com/ShameCom/ShameCom)（2019-2020）
-
 
