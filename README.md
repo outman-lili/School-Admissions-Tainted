@@ -99,7 +99,7 @@ https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
 | 盛趣游戏 |           | 2022年5月     |      |          | [脉脉](https://maimai.cn/web/gossip_detail/30497694?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiY2U1MWY1Y2U5MmUzNDE0Nzg1NWMxZWIyMmE4MGUwYjUiLCJpZCI6MzA0OTc2OTQsInUiOjIzMDI3MjIxOX0.eKWysRz8P0xSkDXRuwdeCGCp3ruVIS-qccR3kuoJ338&share_channel=5) |
 | 携程     |           | 2022年5月     |      |          | 脉脉                                                         |
 | 虾皮     |           | 2022年9月     |      | n+2      | [虾皮应届生](https://maimai.cn/web/gossip_detail/31027460?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYmFmNWRiNGRiZjBkNGViNWJjNzQzYmQ0ZWY5MTE1OTgiLCJpZCI6MzEwMjc0NjAsInUiOjIyNzkwNjg5MH0.MhTswJF4z3zUTx3WXBEZr7kj90XXV6BdDaRSr0md90A&share_channel=)｜[虾皮直播裁员](https://maimai.cn/web/gossip_detail/31025103?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDRkOGNlYmQ2MWYzNDMyZGI1YzNhMDQyODdjZmI0NDYiLCJpZCI6MzEwMjUxMDMsInUiOjIyNzkwNjg5MH0.QkTSKYJ48i1-RO5LmxBXOT4GbjMRqusq2sX9cmsnQYY&share_channel=) |
-|          |           |               |      |          |                                                              |
+| 微信读书 |           | 2022年9月     |      |          | [脉脉](https://gitee.com/guanlili1921/picturebed/raw/master/img/image-20220923104341960.png) |
 
 ## 说在后面
 
