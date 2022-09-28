@@ -100,6 +100,7 @@ https://docs.qq.com/sheet/DWGNweW9Ca1dwam5k
 | 携程     |           | 2022年5月     |          | 脉脉                                                         |                             |
 | 虾皮     |           | 2022年9月     | n+2      | [虾皮应届生](https://maimai.cn/web/gossip_detail/31027460?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYmFmNWRiNGRiZjBkNGViNWJjNzQzYmQ0ZWY5MTE1OTgiLCJpZCI6MzEwMjc0NjAsInUiOjIyNzkwNjg5MH0.MhTswJF4z3zUTx3WXBEZr7kj90XXV6BdDaRSr0md90A&share_channel=)｜[虾皮直播裁员](https://maimai.cn/web/gossip_detail/31025103?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDRkOGNlYmQ2MWYzNDMyZGI1YzNhMDQyODdjZmI0NDYiLCJpZCI6MzEwMjUxMDMsInUiOjIyNzkwNjg5MH0.QkTSKYJ48i1-RO5LmxBXOT4GbjMRqusq2sX9cmsnQYY&share_channel=) | 应届被裁80%以上，几乎团灭。 |
 | 微信读书 |           | 2022年9月     |          | [脉脉](https://gitee.com/guanlili1921/picturebed/raw/master/img/image-20220923104341960.png) |                             |
+| 58安居客 | 上海      | 2022年9月     |          | [脉脉](https://maimai.cn/web/gossip_detail/31048787?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYjBhZGY2MTY5Yjk4NDFmNjk4Y2I2ZjZmNzZjODU1YjEiLCJpZCI6MzEwNDg3ODcsInUiOjIyOTQyMzU0OH0.TIwiDFBaUkyHvr9trNh_hrsf7NgXvfTQ9Eh03HV4qOo&share_channel=5)｜[脉脉](https://maimai.cn/web/gossip_detail/31037608?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNTE5N2Y2YzljNGQyNGI1OGJiYTY1Yzc3YjA3NjcwODEiLCJpZCI6MzEwMzc2MDgsInUiOjIyOTQyMzU0OH0.qGmPrI5term7mivVmgS4W2ZpujEI2qGQ06Jgimrihxw&share_channel=5) |                             |
 
 ## 说在后面
 
